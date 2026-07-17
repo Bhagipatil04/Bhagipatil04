@@ -28,7 +28,9 @@ Replace the links below with your repository URLs:
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Bhagipatil04&show_icons=true&theme=tokyonight)
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagipatil04&layout=compact&theme=tokyonight)
+
 ![Streak](https://streak-stats.demolab.com?user=Bhagipatil04&theme=tokyonight)
 
 ## 📫 Contact
