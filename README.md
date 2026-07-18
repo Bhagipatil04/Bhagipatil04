@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bhagyashri Patil
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=220&section=header&text=Bhagyashri%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=DevOps%20|%20AWS%20Cloud%20Learner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=260&section=header&text=Bhagyashri%20Patil&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=DevOps%20|%20AWS%20Cloud%20Learner&descSize=22&descAlignY=68"/>
 </p>
 
 ## 🚀 About Me
