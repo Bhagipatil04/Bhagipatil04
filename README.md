@@ -26,12 +26,22 @@ AWS • Linux • Git • GitHub • Docker • Kubernetes • Terraform • Jav
 Replace the links below with your repository URLs:
 - https://github.com/Bhagipatil04/
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Bhagipatil04&show_icons=true&theme=tokyonight)
+## 🎓 Education
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagipatil04&layout=compact&theme=tokyonight)
+- **Master of Computer Applications (MCA)**
+  - R C Patel IMRD,shirpur
+  - 2024 – 2026
 
-![Streak](https://streak-stats.demolab.com?user=Bhagipatil04&theme=tokyonight)
+- **Bachelor of Science (Computer Science)**
+  - Pratap Collage ,Amalner
+  - 2021 – 2024
+
+ ## 📜 Certifications
+
+- ☁️ NPTEL Cloud Computing:-
+-   Cloud,Python
+- Spoken Tutorial :-Java,Python
+- Linkdin Learning Certificate:- SQL, Data Analyst
 
 ## 📫 Contact
 - GitHub: https://github.com/Bhagipatil04
