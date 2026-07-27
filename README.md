@@ -23,9 +23,6 @@ AWS • Linux • Git • GitHub • Docker • Kubernetes • Terraform • Jav
 - 📝 Registration Form Deployment
 - 📰 WordPress Deployment
 
-Replace the links below with your repository URLs:
-- https://github.com/Bhagipatil04/
-
 ## 🎓 Education
 
 - **Master of Computer Applications (MCA)**
