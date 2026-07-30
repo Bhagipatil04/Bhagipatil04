@@ -44,4 +44,4 @@ AWS • Linux • Git • GitHub • Docker • Kubernetes • Terraform • Jav
 - GitHub: https://github.com/Bhagipatil04
 - Portfolio: https://bhagipatil04.github.io/
 - Email: pbhagyashri936@gmail.com
-- Linkdin: linkedin.com/in/bhagyashri-patil-48a632319
+- Linkdin: https://linkedin.com/in/bhagyashri-patil-48a632319
